@@ -44,7 +44,7 @@ Run all cells top to bottom — Section 1 generates the preprocessed datasets fr
 ├── main.ipynb                                                      # Full pipeline: preprocessing → training → evaluation
 ├── data/
 │   └── medulloblastoma.tsv                                         # Raw gene expression data
-├── Machine Learning-Based Classification of Medulloblastoma Using.pdf   # Full written report
+├── Machine Learning-Based Classification of Medulloblastoma.pdf   # Full written report
 └── requirements.txt
 ```
 
