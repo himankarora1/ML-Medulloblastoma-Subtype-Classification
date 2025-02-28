@@ -1,0 +1,13 @@
+# Generated during notebook execution (fully reproducible from raw data)
+data/preprocessed/
+ml_results.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
